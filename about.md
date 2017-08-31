@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 banner_image: about.jpg
-banner_image_alt: About us
+banner_image_alt: About Me
 ---
 
 This is my blog!
