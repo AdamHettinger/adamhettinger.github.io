@@ -1,12 +1,10 @@
 # Site settings
-title: Learning Continuous Deployment
-tagline: Continuous Deployment, Docker, Git
+title: Time and Pressure
+tagline: Gems from my journey in Business Analysis, DevOps, AWS, Linux, and Life
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, we are a handful of students
-  and wanna have some fun with continuous deployment. :-)
 baseurl: # the subpath of your site, e.g. /blog/
-url: "https://learning-continuous-deployment.github.io" # the base hostname & protocol for your site
+url: "https://adamhettinger.github.io" # the base hostname & protocol for your site
 logourl: # /assets/images/logo.png # Site logo
 author:
 author_thumbnail: /assets/images/hdm-logo.png # Author avatar
@@ -19,7 +17,7 @@ theme:
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
   social:
-    github: learning-continuous-deployment
+    github: adamhettinger
     twitter:
     facebook:
     gplus:
@@ -32,10 +30,10 @@ theme:
   show_author_info: true
 
   # Disqus comments manager - shortname
-  disqus_shortname: learningcontinuousdeployment
+  disqus_shortname: 
 
   # Google Analytics/Webmaster key, leave blank to ignore
-  google_analytics_key: UA-57974988-2
+  google_analytics_key: 
   google_webmaster_key:
 
 # Build settings
