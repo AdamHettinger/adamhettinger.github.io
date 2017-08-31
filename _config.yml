@@ -1,6 +1,6 @@
 # Site settings
 title: Time and Pressure
-tagline: Gems from my journey in Business Analysis, DevOps, AWS, Linux, and Life
+tagline: # Gems from my journey in Business Analysis, DevOps, AWS, Linux, and Life
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: # the subpath of your site, e.g. /blog/
