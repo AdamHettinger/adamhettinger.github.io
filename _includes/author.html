@@ -1,0 +1,10 @@
+{% capture author_info %}
+<div class="author">
+  <h5>Author</h4>
+  <h6>
+    <a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">
+      {{ page.author_name }}
+    </a>
+  </h5>
+</div>
+{% endcapture %}{{ author_info | strip_newlines }}
