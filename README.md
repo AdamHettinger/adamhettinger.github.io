@@ -1,3 +1,3 @@
 ### Documentation Blog
 
-This is our [Blog](https://learning-continuous-deployment.github.io/) where we will publish interesting information about our work.
+This is my blog! A work in progress where I plan to document my learning in the field of IT. At the moment, I'm interested in DevOps, AWS, Linux, and Project Management. 
