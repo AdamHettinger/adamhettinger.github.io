@@ -7,7 +7,7 @@ baseurl: # the subpath of your site, e.g. /blog/
 url: "https://adamhettinger.github.io" # the base hostname & protocol for your site
 logourl: # /assets/images/logo.png # Site logo
 author: Adam Hettinger
-author_thumbnail: /assets/images/mecirc_small.png # Author avatar
+author_thumbnail: /assets/images/mecirc_small2.png # Author avatar
 
 excerpt_separator: <!--more-->
 
