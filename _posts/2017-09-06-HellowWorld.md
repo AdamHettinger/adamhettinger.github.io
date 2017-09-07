@@ -10,4 +10,4 @@ author_name: Adam
  
 The name of this blog, "Pressure and Time", comes from a quote in one of my favorite movies, *The Shawshank Redemption* (and an equally good song by Rival Sons). It's easy to get overwhelmed by the pace at which technology changes and the swaths of information that must be absorbed, however, we must remind ourselves that knowledge can be solidified with pressure and time.
 
-In this blog I hope to document my jouney in IT. I started this blog as a way to reinforce my learning and as a way to share knowledge with others. I'm currently interested AWS, DevOps, Automation, Linux, and Agile Project Management. 
+In this blog I hope to document my jouney in IT. I started this blog as a way to reinforce my learning and as a way to share knowledge with others. I'm currently interested in AWS, DevOps, Automation, Linux, and Agile Project Management. 
